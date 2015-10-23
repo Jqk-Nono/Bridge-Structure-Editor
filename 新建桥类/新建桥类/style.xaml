@@ -1,0 +1,60 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:新建桥类">
+    <!--主色-->
+    <SolidColorBrush x:Key="mainBaseColor" Color="#FF49A4FF"/>
+    <SolidColorBrush x:Key="mainDeepColor" Color="#005CB8"/>
+    <SolidColorBrush x:Key="mainLightColor" Color="#B3EEF5"/>
+
+    <SolidColorBrush x:Key="UIForeground" Color="#FF151515"/>
+    <SolidColorBrush x:Key="UIBackground" Color="#FFEAEAEA"/>
+    <SolidColorBrush x:Key="InputForeground" Color="#FF131313"/>
+    <SolidColorBrush x:Key="InputBackground" Color="#FFD4D4D4"/>
+    
+    <Style TargetType="TextBlock" x:Key="UITextBlock">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="{StaticResource UIForeground}"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="Margin" Value="8,5"/>
+    </Style>
+    <Style TargetType="TextBox" x:Key="InputTextBox">
+        <Setter Property="Background" Value="{StaticResource InputBackground}"/>
+        <Setter Property="Foreground" Value="{StaticResource InputForeground}"/>
+        <Setter Property="Margin" Value="8,4"/>
+        <Setter Property="Padding" Value="4,2"/>
+        <Setter Property="MinWidth" Value="80"/>
+        <Setter Property="MaxWidth" Value="80"/>
+        <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="BorderBrush" Value="{x:Null}"/>
+    </Style>
+    <Style TargetType="Expander">
+        <Setter Property="Foreground" Value="{StaticResource UIForeground}"/>
+    </Style>
+    <Style TargetType="Button">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="Margin" Value="10,4"/>
+        <Setter Property="Padding" Value="20,2"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <DrawingGroup x:Key="AddNewIcon">
+        <DrawingGroup.ClipGeometry>
+            <RectangleGeometry Rect="0,0,512,512" />
+        </DrawingGroup.ClipGeometry>
+        <DrawingGroup>
+            <GeometryDrawing Brush="#FF00BB33">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M272,128L272,128 240,128 240,240 128,240 128,272 240,272 240,384 272,384 272,272 384,272 384,240 272,240z" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing Brush="#FF4BAC1D">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M256,0C114.609,0 0,114.609 0,256 0,397.391 114.609,512 256,512 397.391,512 512,397.391 512,256 512,114.609 397.391,0 256,0z M256,472C136.703,472 40,375.297 40,256 40,136.703 136.703,40 256,40 375.297,40 472,136.703 472,256 472,375.297 375.297,472 256,472z" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+    </DrawingGroup>
+</ResourceDictionary>
