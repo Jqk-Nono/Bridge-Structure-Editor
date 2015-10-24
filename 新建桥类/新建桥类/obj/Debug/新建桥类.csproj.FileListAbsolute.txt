@@ -1,0 +1,268 @@
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\App.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条指标.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+D:\文档\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\App.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\一条指标.baml
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.application
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+C:\Users\lee\Dropbox\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.application
+D:\Important\Visual Studio 2013\Projects\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+D:\Important\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+D:\Important\Visual Studio 2013\Projects\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\App.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.application
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.baml
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+D:\Important\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.application
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.application
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\App.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.application
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.dll
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.pdb
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.baml
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.application
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.dll
+H:\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.pdb
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\App.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.baml
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.application
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+H:\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.application
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.dll
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.pdb
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\App.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.baml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.application
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+C:\Users\lee\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.application
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.dll
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.pdb
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\选择导入或新建.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\App.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\一条指标.baml
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+D:\OneDrive\Documents\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\新建桥类.application
+D:\文档\Visual Studio 2013\Projects\bridge1\新建桥类\新建桥类\obj\Debug\style.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\新建桥类.exe.config
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.exe
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.pdb
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\新建桥类.exe.manifest
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\新建桥类.application
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\新建桥类.exe
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\新建桥类.pdb
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.dll
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\bin\Debug\BridgeBaseComponents.pdb
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.csprojResolveAssemblyReference.cache
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一条标度及说明.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\选择导入或新建.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\AddOrDeleteButton.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\MainWindow.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一个一级部件.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一个二级部件.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一条基础记录.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一条指标.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一条标度及说明.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\选择导入或新建.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\App.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.cache
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类_MarkupCompile.lref
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\MainWindow.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\style.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一个一级部件.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一个二级部件.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一条基础记录.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\一条指标.baml
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.g.resources
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.Properties.Resources.resources
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.exe.manifest
+D:\文档\Visual Studio 2015\Projects\Bridge-Structure-Editor\新建桥类\新建桥类\obj\Debug\新建桥类.application

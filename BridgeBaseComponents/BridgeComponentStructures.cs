@@ -11,15 +11,15 @@ namespace BridgeBaseComponents
 {
 
     /// <summary>
-    /// <!--Bridge类的定义基础，以及为何没有检查记录类
-    /// 基本思想：
-    /// 1.每次检查A桥时，把A桥当作与上次检测不一样的桥；
-    /// 2.每次检测A桥时，都把它当作与之前无关的一座桥；
-    /// 3.每一次检测，A桥不再是A桥，称它为B桥，B桥的参数与A一致；
-    /// 4.A桥与B桥在参数上一致，在评分上区分；
-    /// 5.每一个Bridge的实例，代表一次检测；-->
+    /// <!--Bridge类的定义基础,以及为何没有检查记录类
+    /// 基本思想:
+    /// 1.每次检查A桥时,把A桥当作与上次检测不一样的桥
+    /// 2.每次检测A桥时,都把它当作与之前无关的一座桥
+    /// 3.每一次检测,A桥不再是A桥,称它为B桥,而B桥的参数与A一致
+    /// 4.A桥与B桥在参数上一致,在标度评分上区分
+    /// 5.每一个Bridge的实例,代表一次检测-->
     /// </summary>
-    //[Serializable]
+    [Serializable]
     public class Bridge
     {
         public string 桥梁类型名称 { get; set; }
@@ -91,14 +91,14 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    
     public class 基本信息数据
     {
-        ////[XmlIgnore]
+        [XmlIgnore]
         public 基本信息数据组成结构 基本信息记录项目结构 { get; set; }
-        //[XmlIgnore]
+        [XmlIgnore]
         public 基本信息数据组成结构 基本参数记录项目结构 { get; set; }
-        //[XmlIgnore]
+        [XmlIgnore]
         public 基本信息数据组成结构 结构简图记录项目结构 { get; set; }
         public List<基本信息数据组成结构> 基本信息数据组成结构集合
         {
@@ -112,7 +112,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 基本信息数据组成结构
     {
         public string 结构名称 { get; set; }
@@ -135,7 +135,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 基础记录项目
     {
         public string 描述名称 { get; set; }
@@ -180,16 +180,16 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 养护管理数据
     {
-        //[XmlIgnore]
+        [XmlIgnore]
         public 桥梁组成结构 桥面系 { get; set; }
 
-        //[XmlIgnore]
+        [XmlIgnore]
         public 桥梁组成结构 上部结构 { get; set; }
 
-        //[XmlIgnore]
+        [XmlIgnore]
         public 桥梁组成结构 下部结构 { get; set; }
 
         public List<桥梁组成结构> 桥梁组成结构集合
@@ -197,7 +197,7 @@ namespace BridgeBaseComponents
             get { return new List<桥梁组成结构>() { 桥面系, 上部结构, 下部结构 }; }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<string, 桥梁组成一级部件> Available桥梁组成一级部件字典
         {
             get
@@ -217,7 +217,7 @@ namespace BridgeBaseComponents
             }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<string, 桥梁组成二级部件> Available桥梁组成二级部件字典
         {
             get
@@ -251,7 +251,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 桥梁组成结构
     {
         public string 名称 { get; set; }
@@ -284,7 +284,7 @@ namespace BridgeBaseComponents
 
         public List<桥梁组成一级部件> 桥梁组成一级部件集合 { get; set; }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public List<桥梁组成一级部件> Available桥梁组成一级部件集合
         {
             get
@@ -301,7 +301,7 @@ namespace BridgeBaseComponents
             }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<string, 桥梁组成一级部件> Available桥梁组成一级部件字典
         {
             get
@@ -318,7 +318,7 @@ namespace BridgeBaseComponents
             }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public List<桥梁组成二级部件> Available桥梁组成二级部件集合
         {
             get
@@ -341,7 +341,7 @@ namespace BridgeBaseComponents
             }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<string, 桥梁组成二级部件> Available桥梁组成二级部件字典
         {
             get
@@ -395,7 +395,7 @@ namespace BridgeBaseComponents
     }
 
 
-    //[Serializable]
+    [Serializable]
     public class 养护管理记录总表项目
     {
         public bool IsChecked { get; set; }
@@ -418,7 +418,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 桥梁组成一级部件
     {
         public string 部件名称 { get; set; }
@@ -469,7 +469,7 @@ namespace BridgeBaseComponents
             }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<string, 桥梁组成二级部件> Available桥梁组成二级部件字典
         {
             get
@@ -511,7 +511,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 桥梁组成二级部件
     {
         public string 部件名称 { get; set; }
@@ -548,7 +548,7 @@ namespace BridgeBaseComponents
 
         public List<检查指标> 检查指标集合 { get; set; }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<string, 检查指标> 检查指标字典
         {
             get
@@ -662,7 +662,7 @@ namespace BridgeBaseComponents
             }
         }
 
-        ////[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<int, 维修记录> 维修记录字典 { get; set; }   //记录编号，维修记录 
         #endregion
 
@@ -676,7 +676,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 检查指标
     {
         public string 指标名称 { get; set; }
@@ -714,7 +714,7 @@ namespace BridgeBaseComponents
             }
         }
        
-        //[XmlIgnore]
+        [XmlIgnore]
         public Dictionary<int, 标度及其说明> 标度及其说明字典
         {
             get
@@ -764,7 +764,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 标度及其说明
     {
         public int 标度 { get; set; }
@@ -791,7 +791,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 检查项目内容
     {
         public 存储数据结构 是否检查 { get; set; }
@@ -828,7 +828,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 存储数据结构
     {
         public string 描述名称 { get; set; }
@@ -862,7 +862,7 @@ namespace BridgeBaseComponents
         }
     }
 
-    //[Serializable]
+    [Serializable]
     public class 维修记录
     {
         public 存储数据结构 是否维修 { get; set; }
