@@ -663,7 +663,7 @@ namespace BridgeBaseComponents
         }
 
         [XmlIgnore]
-        public Dictionary<int, 维修记录> 维修记录字典 { get; set; }   //记录编号，维修记录 
+        public Dictionary<int, 维修记录> 维修记录字典 { get; set; } 
         #endregion
 
         public string 二级部件养护建议 { get; set; }
