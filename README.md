@@ -12,7 +12,7 @@ Code in C#, many parameters are the Chinese characters.
 
 如果有做桥梁的人进来这里，希望能一起完善BridgeBaseComponentStructures里的类。
 
-在使用Bridge类时的基本思想是，“一秒后的我是全新的我”。
+在使用Bridge类时的基本思想是，每次检测时的桥梁是一个新的实例。
 
 Bridge类的定义基础,以及为何没有检查记录类。
     /// 基本思想:
